@@ -1,0 +1,2 @@
+# no-world
+only universe
